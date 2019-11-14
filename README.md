@@ -20,7 +20,7 @@
 
  https://data.cyber.org.il/python/python_book.pdf
  
-** #C**
+**#C**
 
 ------------
 
