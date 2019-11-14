@@ -8,7 +8,7 @@
 **פייתון**
  https://data.cyber.org.il/python/python_book.pdf
  
-** #C**
+**#C**
 http://www.underwar.co.il/download.asp?ID=104 
 
 **C++**
