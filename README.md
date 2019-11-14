@@ -3,6 +3,7 @@
 [data.cyber.org.il-אסמבלי](https://data.cyber.org.il/assembly/assembly_book.pdf )
 
 **כללי**
+
 רשתות ואינטרנט - http://data.cyber.org.il/networks/networks.pdf
 
 **פייתון**
